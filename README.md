@@ -1,6 +1,7 @@
 ### Amazon Clone with React
 
 Tutorial by Qazi and Sony from Clever Programmer
+Credits: https://www.youtube.com/watch?v=RDV3Z1KCBvo
 
 Initial installation:
 
